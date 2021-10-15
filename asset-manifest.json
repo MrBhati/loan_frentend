@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oan_frentend/static/css/main.a617e044.chunk.css",
+    "main.js": "/oan_frentend/static/js/main.601c3873.chunk.js",
+    "main.js.map": "/oan_frentend/static/js/main.601c3873.chunk.js.map",
+    "runtime-main.js": "/oan_frentend/static/js/runtime-main.5c531eaf.js",
+    "runtime-main.js.map": "/oan_frentend/static/js/runtime-main.5c531eaf.js.map",
+    "static/css/2.a95be28f.chunk.css": "/oan_frentend/static/css/2.a95be28f.chunk.css",
+    "static/js/2.b77c1d79.chunk.js": "/oan_frentend/static/js/2.b77c1d79.chunk.js",
+    "static/js/2.b77c1d79.chunk.js.map": "/oan_frentend/static/js/2.b77c1d79.chunk.js.map",
+    "static/js/3.bab2f040.chunk.js": "/oan_frentend/static/js/3.bab2f040.chunk.js",
+    "static/js/3.bab2f040.chunk.js.map": "/oan_frentend/static/js/3.bab2f040.chunk.js.map",
+    "index.html": "/oan_frentend/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/oan_frentend/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/oan_frentend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b77c1d79.chunk.js.LICENSE.txt": "/oan_frentend/static/js/2.b77c1d79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c531eaf.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.b77c1d79.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.601c3873.chunk.js"
+  ]
+}
